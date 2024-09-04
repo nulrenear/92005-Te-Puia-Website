@@ -1,7 +1,7 @@
 ul {
     list-style-type: none;
-    margin: 0;
-    padding: 0;
+    margin: 0px;
+    padding: 0px;
     overflow: hidden;
     background-color: #333;
   }
@@ -28,16 +28,27 @@ ul {
   } 
   body{
     background-color: gray;
+    margin: 0px;
+    padding: 0px;
   }
   h1{
     text-align: left;
-    background-color: peachpuff;
+    background-color: burlywood;
     color: white;
     font-size: 400%;
+    padding: 4%;
+    margin: 0px;
+    font-family:Arial, Helvetica, sans-serif
   }
 .img-1{
   height: 450px;
   width: 700px;
-  margin-left: 10%;
-  margin-top: 5%;
+    margin-left: 10%;
+    margin-top: 5%;
+    float: left;
+}
+.AboutUs-1{
+  padding: 12%;
+  font-size: 150%;
+  color: white;
 }
