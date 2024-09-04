@@ -1,0 +1,122 @@
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-family: 'Gill Sans', 'Gill Sans MT', 'Trebuchet MS', sans-serif;
+}
+
+li a:hover:not(.active) {
+  background-color: #111;
+}
+
+.active {
+  background-color: #04AA6D;
+} 
+  .hero-image{
+    background-image: url("./Images/20240626_111235.jpg");
+    height: 650px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.hero-text{
+  color: rgb(0, 216, 151);
+  position: absolute;
+  margin-left: 39%;
+  margin-top: 2%;
+  top: 180px;
+  width: 58%;
+  font-size: 7rem;
+  font-family:fantasy;
+}
+.hero_text{
+  color: rgb(0, 216, 151);
+  position: absolute;
+  margin-left: 31%;
+  margin-top: 9%;
+  top: 180px;
+  width: 58%;
+  font-size: 4rem;
+  font-family:fantasy;
+  font-weight: bold;
+}
+body{
+  background-color: grey;
+}
+.Te-Puia{
+  width: 20%;
+  margin-top: 2%;
+  margin-left: 16%;
+}
+.Te-Puia2{
+  width: 20%;
+  margin-top: 2%;
+  margin-left: 3%;
+}
+.Te-Puia3{
+  width: 20%;
+  margin-top: 2%;
+  margin-left: 3%;
+}
+h2{
+  text-align: center;                                                                                   
+  margin-right: 5.7%;
+  color: white;
+  font-weight: bold;
+  font-size: 40px;
+  font-family: serif;
+}
+p{
+  margin-right: 5%;
+  margin-left: 5%;
+  color: white;
+  font-weight: bold;
+  font-size: 20px;
+  font-family: serif;
+}
+footer{
+  background-color: black;
+  color: white;
+}
+.Logo-TePuia-White{
+  margin-left: 19%;
+  width: 10%;
+}
+h3{
+  padding-left: 50%;
+  font-size: 200%;
+  position: absolute;
+}
+.main{
+  margin-left: 37%;
+  color: white;
+  text-decoration: underline overline;
+  font-size: larger;
+}
+.main2{
+  margin-left: 35.5%;
+  color: white;
+  text-decoration: underline overline;
+  font-size: larger;
+}
+.main3{
+  margin-left: 33%;
+  color: white;
+  text-decoration: underline overline;
+  font-size: larger;
+}
