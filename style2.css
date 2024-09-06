@@ -50,7 +50,7 @@ body{
    font-weight: bold;
    font-size: 250%;
 }
-p{
+.About-Types{
   color: white;
   font-size: 170%;
   font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande',
@@ -99,4 +99,43 @@ p{
 }
 .Bold-text{
   font-weight: 100;
+}
+footer{
+  background-color: black;
+  color: white;
+}
+.Logo-TePuia-White{
+  margin-left: 19%;
+  width: 10%;
+}
+h3{
+  padding-left: 50%;
+  font-size: 200%;
+  position: absolute;
+}
+.main{
+  padding-left: 37%;
+  color: white;
+  text-decoration: underline overline;
+  font-size: larger;
+}
+.main2{
+  padding-left: 35.5%;
+  color: white;
+  text-decoration: underline overline;
+  font-size: larger;
+}
+.main3{
+  padding-left: 33%;
+  color: white;
+  text-decoration: underline overline;
+  font-size: larger;
+}
+p{
+  margin-right: 5%;
+  margin-left: 5%;
+  color: white;
+  font-weight: bold;
+  font-size: 20px;
+  font-family: serif;
 }
